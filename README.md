@@ -1,11 +1,3 @@
----
-date: 2023-01-28
-title: "List your S3 buckets with size"
-weight:
-type: docs
-description:
----
-
 ### **AWS S3**
 Amazon Simple Storage Service is an object storage service that offers industry-leading scalability, data availability, security, and performance. Amazon S3 bucket is a container for objects, aka files. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as data lakes, websites, cloud-native applications, backups, archive, machine learning, and analytics.
 
