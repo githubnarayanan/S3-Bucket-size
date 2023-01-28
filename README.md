@@ -1,4 +1,4 @@
-### **AWS S3**
+### **AWS S3 Buckets List with Size**
 Amazon Simple Storage Service is an object storage service that offers industry-leading scalability, data availability, security, and performance. Amazon S3 bucket is a container for objects, aka files. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as data lakes, websites, cloud-native applications, backups, archive, machine learning, and analytics.
 
 The total volume of data and number of objects you can store in an Amazon S3 bucket is virtually unlimited. There is a lot of way you can monitor S3 storage size and other key usage metrics. This simple bash script is help you to lost all of your s3 buckets with size.
