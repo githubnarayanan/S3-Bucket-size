@@ -4,4 +4,4 @@ Amazon Simple Storage Service is an object storage service that offers industry-
 The total volume of data and number of objects you can store in an Amazon S3 bucket is virtually unlimited. There is a lot of way you can monitor S3 storage size and other key usage metrics. This simple bash script is help you to lost all of your s3 buckets with size.
 
 ### **Running the script**
-Add your aws credential in your local machine and use the profile in "PROFILE" variable. After runing the script your result will be displayed in the result.csv file.
+Add your aws credential in your local machine and use the profile in "PROFILE" variable. After runing the script your result will be displayed in the buckets-sizes.csv file.
