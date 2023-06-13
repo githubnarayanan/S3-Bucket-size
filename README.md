@@ -5,3 +5,6 @@ The total volume of data and number of objects you can store in an Amazon S3 buc
 
 ### **Running the script**
 Add your aws credential in your local machine and use the profile in "PROFILE" variable. After runing the script your result will be displayed in the buckets-s3-sizes.csv file.
+
+### Author
+Jithu Narayanan
